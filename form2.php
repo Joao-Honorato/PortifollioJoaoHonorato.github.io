@@ -5,8 +5,7 @@ print_r('nome :' . $_POST['nomeAnuncio']);
 
 }?> <br>
 
-<?php
-include('include/bd.php');
+
     
 $nome = $_POST['nomeAnuncio'];
 
